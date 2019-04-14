@@ -1,6 +1,6 @@
   ![](https://img.shields.io/badge/Language-TeX-yellow.svg)![](https://img.shields.io/badge/version-0.1-red.svg)![](https://img.shields.io/github/last-commit/hoganbin/TeX-degree-template-making.svg)![](https://img.shields.io/github/repo-size/hoganbin/TeX-degree-template-making.svg)![](https://img.shields.io/github/languages/code-size/hoganbin/TeX-degree-template-making.svg)![](https://img.shields.io/github/followers/hoganbin.svg?label=Follow)
 
-# Hoganbin_LaTeX_Template
+# Git 基础与进阶教程
 
 这是本人制作的本科学位毕业设计LaTeX模板，欢迎star!
 
@@ -104,12 +104,6 @@ https://github.com/mathflow/ImagesBed/blob/master，但前提是你的仓库是�
 
 注7：使用github做图床，速度上你懂得，有点慢。每个仓库有1000g存储容量。
 
-This team is mainly used for template making in universities. Welcome to LaTeX users!
-
-TeX-degree-template-making
 
 
-
-
-
-更新时间2019年4月12日
+更新时间2019年4月15日
